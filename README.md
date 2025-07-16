@@ -97,7 +97,6 @@ Here’s a clear and professional **Markdown guide** on how to run the **SkillMa
 
 ---
 
-````md
 # 🛠 How to Run the SkillMatch Backend (Django)
 
 This guide walks you through setting up and running the backend for the **SkillMatch** project.
