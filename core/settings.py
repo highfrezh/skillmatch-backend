@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xd8r&64bxnex!kky1#cm+1tb)i(eyufoht^_3w#pr-bomzm-rh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["skillmatchapi.onrender.com", "127.0.0.1","localhost"]
+ALLOWED_HOSTS = ["skillmatch-backend-production.up.railway.app", "127.0.0.1","localhost","*"]
 
 
 # Application definition
